@@ -29,3 +29,10 @@ I'm a passionate developer focused on building great web applications with a var
 - ### Framework
 - [FrameworkMVC](https://github.com/mohammadNematollahi/FrameworkMVC)
 
+## Certifications
+
+### [CS50x: Introduction to Computer Science - Harvard University](https://certificates.cs50.io/b7442346-798a-4d7c-b445-f5f06b5c1ccf.pdf?size=letter) 
+![CS50x](https://img.shields.io/badge/CS50x-%23FF0000?style=flat&logo=edx&logoColor=white)
+- Completed the CS50x: Introduction to Computer Science course by Harvard University on edX.
+
+

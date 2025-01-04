@@ -13,6 +13,10 @@ I'm a passionate developer focused on building great web applications with a var
 - ![jQuery](https://img.shields.io/badge/jQuery-%230769AD?style=flat&logo=jquery&logoColor=white)
 - ![Livewire](https://img.shields.io/badge/Livewire-%234c51bf?style=flat&logo=livewire&logoColor=white)
 - ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black)
+- ![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=flat&logo=mysql&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-%23F05033?style=flat&logo=git&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=flat&logo=docker&logoColor=white)
+ 
 
 ## You can visite it if you'r laravel developer
 
